@@ -1,0 +1,158 @@
+body{
+    background-color: #721313;
+}
+
+tr{
+scroll-padding-right: 20px;
+}
+
+.store-details{
+    width: 100px;    
+}
+
+/*display:flex - FLEXBOX
+linha 18 - permite q o flexbox seja aplicado
+Widht - distância do texto à borda*/
+.store-section {
+    display: flex;
+    display: -webkit-flex;
+    width: 900px;
+}
+
+/*Text-align: left - alinha o texto iniciando pela esquerda*/
+.caracteristica{
+    text-align: left;
+}
+
+.store-section2 {
+    display: flex;
+    display: -webkit-flex;
+    width: 1200px;
+}
+
+
+/*Padding - adiciona preenchimento ao redor do texto*/
+.texto2{
+    padding-left: 150px;
+    width: 700px;
+    text-align: left;   
+}
+
+.imagem-pente{
+position: relative;
+top: 10px;
+left: 146px;
+}
+
+
+.texto2-2{
+    padding-left: 150px;
+    width: 650px;
+    text-align: justify;
+}
+
+
+#alinhamento-texto{
+    margin-top: 50px;
+    margin-left: 500px;   
+}
+
+table{
+    
+    border-collapse: separate;    
+}
+
+#image{
+    position: relative;
+    margin-bottom: -120px;
+}
+
+.item1{
+    text-align: left;
+    margin-left: 356px;
+}
+
+.item2{
+    text-align: right;
+    margin-right: 356px;
+}
+
+.image1{
+    margin-left: -800px;
+}
+
+
+.image1{
+    text-align: center;
+    margin-bottom: -538px;
+}
+
+.image3{
+    position: absolute;
+    left: 1014px;
+    margin-top: -538px ;
+}
+
+
+.image4{
+    position: absolute;
+    left:206px;
+}
+
+.image5{
+    text-align: center;
+}
+
+.image6{
+    position:absolute;
+    right: 200px;
+    margin-top: -538px;
+}
+
+.cronograma{
+    text-align: justify;
+    width: 970px;
+}
+
+.subtitle{
+    position:absolute;
+    left: 279px;
+      
+}
+
+.cronogramaH{
+    text-align: justify;
+    width: 970px;
+    margin-top: 80px;
+}
+
+.cronogramaN{
+    text-align: justify;
+    width: 970px;
+    margin-top: 80px;
+}
+
+.cronogramaR{
+    text-align: justify;
+    width: 970px;
+    margin-top: 80px;
+}
+
+.clicar{
+    text-align: justify;
+    width: 970px;
+}
+
+.seta{
+    position: absolute;
+    margin-top: -210px;
+    left:180px;
+}
+
+.encerramento{
+    font-size: 25px;
+    color: white;
+    text-align: justify;
+    width: 970px;
+    margin-top: 200px;
+}
